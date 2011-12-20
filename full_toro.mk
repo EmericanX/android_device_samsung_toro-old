@@ -27,7 +27,8 @@ PRODUCT_PACKAGES := \
     Gallery \
     Superuser \
     Superuser.apk \
-    su
+    su \
+    FileManager
 
 
 
